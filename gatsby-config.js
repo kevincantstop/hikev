@@ -6,9 +6,9 @@ module.exports = {
       summary: `A Passionate Programmer, Math Lover, Gamer`,
     },
     description: `A Personal Blog About Coding, Data Science, Machine Learning`,
-    siteUrl: `hikev.in`,
+    siteUrl: `https://stoic-ritchie-0be841.netlify.com`,
     social: {
-      twitter: `kevincantstop`,
+      twitter: `kylemathews`,
     },
   },
   plugins: [
